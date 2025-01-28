@@ -6,7 +6,7 @@ import { ThemeProvider } from './common/ThemeContext.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ThemeProvider basename={"/Joyanna-Jiang-2.0/"}>
+    <ThemeProvider>
           <App />
     </ThemeProvider>
   </React.StrictMode>
