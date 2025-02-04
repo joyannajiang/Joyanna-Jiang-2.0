@@ -4,7 +4,7 @@ import styles from './ProjectHeroStyles.module.css';
 function ProjectHero({projectTitle, oneLiner, projectImage, projectDescription, role, timeline, tools, skills, team}) {
   return (
     <section className={styles.container}>
-      <a href="/Joyanna-Jiang-2.0/">
+      <a href="/">
         Back
       </a>
         <div className={styles.projectHeroTop}>

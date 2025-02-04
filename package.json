@@ -2,7 +2,7 @@
   "name": "joyanna-jiang-2-0",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://joyannajiang.github.io/Joyanna-Jiang-2.0/",
+  "homepage": "https://joyannajiang.com",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
