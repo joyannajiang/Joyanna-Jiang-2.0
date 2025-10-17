@@ -6,6 +6,7 @@ import flower from '../../assets/art-flower.png';
 import lake from '../../assets/art-lake.png';
 import mountain from '../../assets/art-mountain.png';
 import paris from '../../assets/art-paris.png';
+import singapore from '../../assets/art-singapore.png';
 
 
 function ArtForFun() {
@@ -34,6 +35,11 @@ function ArtForFun() {
                 />
                 <ArtTile
                     src={paris}
+                />
+            </div>
+            <div className='rowFour'>
+                <ArtTile
+                    src={singapore}
                 />
             </div>
         </section>       
